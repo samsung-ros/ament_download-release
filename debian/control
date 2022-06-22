@@ -1,0 +1,12 @@
+Source: ros-foxy-ament-download
+Section: misc
+Priority: optional
+Maintainer: Steve Macenski <stevenmacenski@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-foxy-ament-cmake, ros-foxy-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-foxy-ament-download
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-foxy-ros-workspace
+Description: CMake macros for downloading files with ament
