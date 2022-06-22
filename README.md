@@ -1,3 +1,26 @@
+## ament_download (foxy) - 0.0.5-1
+
+The packages in the `ament_download` repository were released into the `foxy` distro by running `/usr/bin/bloom-release ament_download --rosdistro foxy --track foxy` on `Wed, 22 Jun 2022 01:16:04 -0000`
+
+The `ament_download` package was released.
+
+Version of package(s) in repository `ament_download`:
+
+- upstream repository: https://github.com/samsung-ros/ament_download
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.0.5-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.1`
+- catkin_pkg version: `0.5.2`
+- rosdep version: `0.21.0`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## ament_download (rolling) - 0.0.5-2
 
 The packages in the `ament_download` repository were released into the `rolling` distro by running `/usr/bin/bloom-release ament_download --rosdistro rolling --track rolling` on `Wed, 22 Jun 2022 01:13:32 -0000`
